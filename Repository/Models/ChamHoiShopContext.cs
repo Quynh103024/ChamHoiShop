@@ -24,6 +24,8 @@ namespace Repository.Models
 
         public DbSet<Type> Types { get; set; }
 
+        public DbSet<ProductType> ProductTypes { get; set; }
+
         public DbSet<Order> Orders { get; set; }
 
         public DbSet<OrderDetail> OrderDetails { get; set; }
@@ -41,6 +43,10 @@ namespace Repository.Models
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Type>().HasData(
+                new Type { TypeID = 1, TypeName = "Trinh thám" },
+                new Type { TypeID = 2, TypeName = "Kinh dị" },
+                new Type { TypeID = 3, TypeName = "Lãng mạn" });
         }
     }
 }

@@ -7,7 +7,7 @@ using Repository.Models;
 
 namespace Repository.Repositories
 {
-    public interface IProductTypeRepository : IBaseRepository<ProductType>
+    public interface ITypeRepository : IBaseRepository<Models.Type>
     {
     }
 }

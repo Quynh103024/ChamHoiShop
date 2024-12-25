@@ -17,8 +17,6 @@ namespace Repository.Models
 
         public string TypeName { get; set; }
 
-        public string Description { get; set; } = "";
-
         public virtual ICollection<ProductType> ProductTypes { get; set; }
     }
 }

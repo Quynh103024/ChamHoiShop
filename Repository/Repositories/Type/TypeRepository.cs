@@ -8,10 +8,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Repository.Repositories
 {
-    public class ProductTypeRepository : BaseRepository<ProductType>, IProductTypeRepository
+    public class TypeRepository : BaseRepository<Models.Type>, ITypeRepository
     {
         private readonly ChamHoiShopContext _db;
-        public ProductTypeRepository(ChamHoiShopContext dbContext) : base(dbContext)
+        public TypeRepository(ChamHoiShopContext dbContext) : base(dbContext)
         {
             _db = dbContext;
         }

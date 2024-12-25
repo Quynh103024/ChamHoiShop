@@ -9,6 +9,7 @@ namespace Repository.Models
 {
     public class ProductType 
     {
+
         [Key]
         public int ProductTypeID { get; set; }
 
