@@ -1,0 +1,9 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h1>Welcome to Admin Dashboard</h1>
+<p>Total Users: @ViewBag.TotalUsers</p>
+<p>Admin Users: @ViewBag.AdminUsers</p>
