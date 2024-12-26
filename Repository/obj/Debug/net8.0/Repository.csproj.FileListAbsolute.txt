@@ -12,3 +12,32 @@ E:\SinhVien\Hoc\HK3-N1\T6_LapTrinhWeb\WorkspaceCore\ChamHoiShop\Repository\obj\D
 E:\SinhVien\Hoc\HK3-N1\T6_LapTrinhWeb\WorkspaceCore\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.pdb
 E:\SinhVien\Hoc\HK3-N1\T6_LapTrinhWeb\WorkspaceCore\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
 E:\SinhVien\Hoc\HK3-N1\T6_LapTrinhWeb\WorkspaceCore\ChamHoiShop\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\ChamHoiShop\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\ChamHoiShop\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+D:\ChamHoiShop\Repository\bin\Debug\net8.0\Repository.dll
+D:\ChamHoiShop\Repository\bin\Debug\net8.0\Repository.pdb
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.dll
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.pdb
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+D:\ChamHoiShop\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\KONG\Documents\2024-2025\HK1\4.Thiết kế web\ChamHoiShop-front-end\Repository\obj\Debug\net8.0\ref\Repository.dll

@@ -5254,23 +5254,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\KONG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SinhVien\\Hoc\\HK3-N1\\T6_LapTrinhWeb\\WorkspaceCore\\ChamHoiShop\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\KONG\\Documents\\2024-2025\\HK1\\4.Thiết kế web\\ChamHoiShop-front-end\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "E:\\SinhVien\\Hoc\\HK3-N1\\T6_LapTrinhWeb\\WorkspaceCore\\ChamHoiShop\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\SinhVien\\Hoc\\HK3-N1\\T6_LapTrinhWeb\\WorkspaceCore\\ChamHoiShop\\Repository\\obj\\",
+      "projectPath": "C:\\Users\\KONG\\Documents\\2024-2025\\HK1\\4.Thiết kế web\\ChamHoiShop-front-end\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\KONG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KONG\\Documents\\2024-2025\\HK1\\4.Thiết kế web\\ChamHoiShop-front-end\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5297,8 +5297,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5361,7 +5360,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
